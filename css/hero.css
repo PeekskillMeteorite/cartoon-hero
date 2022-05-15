@@ -27,7 +27,7 @@ header img{
 	animation-delay: 1100ms;
 }
 
-@keyframes sway{
+@-webkit-keyframes sway{
 	0%{transform: rotate(-25deg);}
 	100%{transform: rotate(25deg);}
 }
