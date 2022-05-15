@@ -38,6 +38,10 @@ main{
 	padding: 20px;
 }
 
+main img{
+	max-width: 100%;
+}
+
 a{
 	color: #9c3c37;
 }
